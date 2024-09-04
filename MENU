@@ -1,0 +1,9 @@
+
+{
+"1.1": config.MAIN_MENU,
+"1.2": config.DL_MENU,
+"1.3": config.MA_MENU,
+"1.4": config.MAI_MENU,
+"1.5": config.MIN_MENU,
+
+}
